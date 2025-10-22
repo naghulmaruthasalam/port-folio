@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Header for Name & Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Naghul+Maruthasalam;AI+Innovator+|+AI/ML+Lead+|+Guest+Speaker" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=15&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Naghul+Maruthasalam;AI+Innovator+|+AI/ML+Lead+|+Guest+Speaker" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
