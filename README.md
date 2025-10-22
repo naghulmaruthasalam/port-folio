@@ -1,86 +1,59 @@
 # port-folio
 🚀 AI Innovator | Tech Trainer | Guest Speaker | Founder – AItherium  I’m a passionate technologist driven by the goal of making Artificial Intelligence accessible, creative, and human-centered. With a background in Computer Science and AI, I focus on transforming ideas into impactful solutions that bridge education, innovation, and technology.
-<!-- Profile Header -->
-<h1 align="center">🌟 Hey there, I'm <a href="https://github.com/naghulmaruthasalam">Naghul Maruthasalam</a> 🌟</h1>
-<h3 align="center">🚀 AI & Data Science Enthusiast | Business Associate | Tech Innovator | Public Speaker | Founder of AItherium</h3>
+<!-- Header GIF Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Naghul Animation" width="400"/>
+</p>
+
+<!-- Animated Typing Header for Name & Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Naghul+Maruthasalam;AI+Innovator+|+AI/ML+Lead+|+Guest+Speaker" alt="Typing SVG"/>
+</h1>
+
+<p align="center">
+  🚀 <b>Founder – AItherium | AI & Data Science Enthusiast</b><br>
+  Making AI accessible, creative, and impactful 🌍
+</p>
 
 ---
 
 ### 🌌 About Me
-Hey! I'm **Naghul Maruthasalam**, an explorer at the intersection of **Artificial Intelligence, Education, and Innovation**.  
-Born and raised in Coimbatore 🇮🇳, I’ve transformed my passion for technology into a journey of **training, innovation, and leadership**.  
+I’m **Naghul Maruthasalam**, a technologist passionate about **AI, education, and innovation**.  
+Born and raised in Coimbatore 🇮🇳, I focus on transforming ideas into real-world solutions that bridge **technology, creativity, and learning**.
 
-My goal is to make **AI accessible and meaningful** — not just as a technology, but as a tool for creativity, learning, and global impact.  
-I believe true innovation begins when knowledge meets purpose.  
-
-💫 My mantra:  
-> **"Learn. Lead. Inspire. Then repeat."**
-
----
-
-### 🌍 AItherium – My Vision in Motion
-**AItherium** is my independent initiative and freelancing venture — where **AI meets creativity, analytics, and business intelligence**.  
-
-Through AItherium, I:
-- Build **AI/ML models** and **automation systems** for practical problem-solving  
-- Conduct **AI-driven financial analysis** and **Generative AI projects**  
-- Collaborate with students and professionals to explore **real-world AI applications**
-
-✨ **AItherium’s mission:** To make *Artificial Intelligence simple, practical, and accessible* for everyone — from students to startups.
+I currently work as the **AI/ML Lead at KGiSL**, guiding teams and mentoring students and professionals in **Generative AI, Prompt Engineering, and No-Code Machine Learning**.  
+I’m also the founder of **AItherium**, a freelance collective building **AI/ML models, automation systems, and data-driven solutions** for learners and businesses.
 
 ---
 
 ### 🎤 Guest Speaking & Leadership Highlights
-Sharing knowledge and inspiring others has always been close to my heart.  
-I’ve been honored to contribute as a **guest speaker, trainer, and mentor** at several impactful platforms:
-
-- 🎙️ **Guest Speaker & Chief Guest** – *Rotary Club of Ootacamund*, delivered a session on *AI, Life Skills, and Future Technologies*  
-- 🧑‍🏫 **Workshop Host** – Conducted engaging sessions on *Generative AI*, *No-Code ML*, and *Creative AI Tools* for schools and colleges  
-- 🎓 **Guest Speaker** – Spoke on *AI in Education* and *Career Development* to motivate young learners  
-- 🧠 **Mentor & Coach** – Guided students on *AI Career Paths*, *Innovation*, and *Project Building*
-
-These experiences continue to strengthen my purpose — to **educate, innovate, and empower**.
+- 🎙️ **Guest Speaker & Chief Guest** – *Rotary Club of Ootacamund*, inspiring minds on AI and technology  
+- 🧑‍🏫 **Workshop Host** – Generative AI, No-Code ML, Voice Cloning & AI Music Labs  
+- 🎓 Motivated students on *AI Careers* and *Innovation Pathways*  
+- 🧠 Mentored learners to build **real-world AI projects**
 
 ---
 
 ### 🏅 Achievements & Highlights
-- 🥈 **2nd Place Winner** – *TechXpo 2024* (AI Chatbot Project)  
-- 🧠 **Recognized by KGiSL Head** for *Generative AI innovations* and *technical contributions*  
-- 🏆 **Acknowledged Technical Trainer** – For outstanding performance in AI & Data Science education  
-- 💡 **Founder of AItherium** – A platform for AI innovation & analytics  
-- 🎤 **Guest Speaker & Chief Guest** – *Rotary Club of Ootacamund*  
-- 🧑‍🏫 **Workshop Host** – *Generative AI, No-Code ML, Voice Cloning & AI Music*  
-- 🚀 **Innovation Advocate** – Passionate about *AI for Education* and *AI Literacy for All*
+- 🥈 **2nd Place Winner** – TechXpo 2024 (AI Chatbot Project)  
+- 🧠 **Recognized by KGiSL Head** for AI & Generative AI initiatives  
+- 🏆 **Acknowledged as AI/ML Lead** for impactful AI contributions  
+- 💡 **Founder of AItherium** – Freelance AI innovation platform  
 
 ---
 
-### 🧰 Tech Stack
-#### 💻 Programming
-`Python` · `JavaScript` · `HTML` · `CSS` · `React` · `Node.js`
-
-#### 🧠 AI/ML Tools
-`TensorFlow` · `Scikit-learn` · `LangChain` · `OpenAI API` · `Google AI Studio` · `Hugging Face`
-
-#### ⚙️ Platforms & Tools
-`VS Code` · `GitHub` · `Coursera` · `Figma` · `Canva` · `Google Workspace`
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,git,linux,ai" />
+</p>
 
 ---
 
 ### 🌈 My Current Focus
-🚀 Building **AI-driven Educational Products**  
-🎤 Delivering **Guest Talks & Workshops** on *Generative AI*  
-📊 Expanding **AItherium** into a *creative AI innovation hub*  
-📈 Exploring the fusion of **AI + Business Strategy + Education**
-
----
-
-### 🪄 Featured Projects
-| Project | Description | Tech Used |
-|----------|--------------|-----------|
-| 🤖 **AI Chatbot** | Conversational assistant built for TechXpo 2024 | Python, OpenAI API, Flask |
-| 🧩 **No-Code ML for Students** | Interactive ML learning without coding | Streamlit, Google AI Studio |
-| 🧬 **Voice Cloning & AI Music Lab** | Exploring creative generative AI projects | ElevenLabs, MusicGen |
-| 💼 **AItherium Business AI Tools** | Data-driven AI tools for business automation | Python, LangChain, OpenAI |
+- 🚀 Building **AI-driven Educational Products**  
+- 🎤 Delivering **Workshops & Guest Talks** on Generative AI  
+- 📊 Expanding **AItherium** into a **creative AI innovation hub**  
+- 📈 Exploring AI integration with **Business Strategy & Education**
 
 ---
 
@@ -88,7 +61,7 @@ These experiences continue to strengthen my purpose — to **educate, innovate, 
 - Generative AI & Voice Tech  
 - No-Code AI Projects  
 - AI Startups & Freelance Ventures  
-- Public Speaking & AI Education  
+- Public Speaking & Mentorship  
 
 ---
 
@@ -101,16 +74,6 @@ These experiences continue to strengthen my purpose — to **educate, innovate, 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naghulmaruthasalam&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naghulmaruthasalam&theme=tokyonight" height="165">
-</p>
-
----
-
 ### 🌠 “Inspiring Minds with Innovation”
-> Every line of code. Every session. Every voice inspired —  
-> brings us one step closer to a smarter, connected world.  
+> Every project, every session, every idea shared brings us closer to a smarter, connected world.  
 > **– Naghul Maruthasalam**
-
